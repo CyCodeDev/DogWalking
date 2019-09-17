@@ -1,0 +1,101 @@
+﻿Id,Username,EmailAddress,DogPreference,Status,CreateTimestamp,Updatetimestamp,LastLoginTimestamp,OwnerRating,AppRating
+1,Walker 1,Walker1@email.com,Small,Open,2018-01-01 21:40:20,2018-01-03 14:54:53,,,3.00
+2,Walker 2,Walker2@email.com,Medium,Open,2018-03-04 22:44:26,2018-03-04 23:51:23,,,5.00
+3,Walker 3,Walker3@email.com,Medium,Open,2018-03-01 01:16:24,2018-03-01 04:04:23,,,4.00
+4,Walker 4,Walker4@email.com,Medium,Open,2018-03-16 12:05:12,2018-03-17 03:46:19,,,5.00
+5,Walker 5,Walker5@email.com,Medium,Open,2018-03-05 17:07:27,2018-03-05 23:13:10,,,5.00
+6,Walker 6,Walker6@email.com,Small,Open,2018-01-11 17:16:48,2018-01-11 17:26:13,,,5.00
+7,Walker 7,Walker7@email.com,Small,Open,2018-03-03 09:29:18,2018-03-04 12:38:33,,,3.00
+8,Walker 8,Walker8@email.com,Medium,Open,2018-04-05 19:42:27,2018-04-06 10:16:41,,,3.00
+9,Walker 9,Walker9@email.com,Small,Open,2018-02-15 17:17:30,2018-02-17 10:17:14,,,5.00
+10,Walker 10,Walker10@email.com,Medium,Open,2018-01-17 12:47:33,2018-01-19 00:08:18,,,5.00
+11,Walker 11,Walker11@email.com,Small,Open,2018-02-08 22:37:53,2018-02-09 12:30:14,,,4.00
+12,Walker 12,Walker12@email.com,Medium,Open,2018-01-17 21:15:07,2018-01-19 17:11:36,,,4.00
+13,Walker 13,Walker13@email.com,Medium,Open,2018-02-08 02:55:46,2018-02-08 09:57:00,,,3.00
+14,Walker 14,Walker14@email.com,Medium,Open,2018-04-10 13:05:09,2018-04-11 03:32:25,,,3.00
+15,Walker 15,Walker15@email.com,Medium,Open,2018-01-15 00:12:41,2018-01-15 16:29:39,,,4.00
+16,Walker 16,Walker16@email.com,Medium,Open,2018-04-17 08:34:21,2018-04-17 19:50:46,,,4.00
+17,Walker 17,Walker17@email.com,Medium,Open,2018-03-08 08:27:33,2018-03-10 08:07:11,,,4.00
+18,Walker 18,Walker18@email.com,Medium,Open,2018-02-25 09:39:31,,,,4.00
+19,Walker 19,Walker19@email.com,Medium,Open,2018-02-21 00:07:03,,,,3.00
+20,Walker 20,Walker20@email.com,Medium,Open,2018-01-26 10:30:21,,,,5.00
+21,Walker 21,Walker21@email.com,Medium,Open,2018-04-19 03:25:46,,,,3.00
+22,Walker 22,Walker22@email.com,Medium,Open,2018-01-31 19:38:56,,,,3.00
+23,Walker 23,Walker23@email.com,Medium,Open,2018-01-25 19:00:09,,,,4.00
+24,Walker 24,Walker24@email.com,Large,Open,2018-02-07 17:33:43,,,,5.00
+25,Walker 25,Walker25@email.com,Large,Open,2018-02-09 20:32:39,,,,4.00
+26,Walker 26,Walker26@email.com,Small,Open,2018-04-09 14:51:27,,,,5.00
+27,Walker 27,Walker27@email.com,Small,Open,2018-03-19 15:02:25,,,,3.00
+28,Walker 28,Walker28@email.com,Large,Open,2018-04-08 02:52:09,,,,5.00
+29,Walker 29,Walker29@email.com,Medium,Open,2018-02-10 03:15:04,,,,3.00
+30,Walker 30,Walker30@email.com,Medium,Open,2018-02-12 01:12:47,,,,3.00
+31,Walker 31,Walker31@email.com,Medium,Open,2018-01-25 14:28:27,,,,5.00
+32,Walker 32,Walker32@email.com,Medium,Open,2018-03-24 09:11:48,,,,3.00
+33,Walker 33,Walker33@email.com,Medium,Open,2018-02-07 14:17:45,,,,3.00
+34,Walker 34,Walker34@email.com,Medium,Open,2018-02-18 01:17:39,,,,3.00
+35,Walker 35,Walker35@email.com,Medium,Open,2018-02-11 10:00:50,,,,3.00
+36,Walker 36,Walker36@email.com,Medium,Open,2018-03-21 14:25:53,,,,4.00
+37,Walker 37,Walker37@email.com,Medium,Open,2018-02-04 04:36:26,,,,4.00
+38,Walker 38,Walker38@email.com,Small,Open,2018-04-06 09:36:37,,,,3.00
+39,Walker 39,Walker39@email.com,Small,Open,2018-02-12 03:54:14,,,,3.00
+40,Walker 40,Walker40@email.com,Small,Verified,2018-02-03 14:42:12,,,,4.00
+41,Walker 41,Walker41@email.com,Small,Verified,2018-01-20 17:13:16,,,,3.00
+42,Walker 42,Walker42@email.com,Small,Verified,2018-03-28 10:42:13,,,,5.00
+43,Walker 43,Walker43@email.com,Small,Verified,2018-03-19 05:51:36,,,,3.00
+44,Walker 44,Walker44@email.com,Small,Verified,2018-01-31 12:14:07,,,,4.00
+45,Walker 45,Walker45@email.com,Small,Closed,2018-02-24 09:03:07,,,,3.00
+46,Walker 46,Walker46@email.com,Small,Inactive,2018-04-25 05:24:07,,,,3.00
+47,Walker 47,Walker47@email.com,Small,Pending,2018-04-07 10:45:51,,,,3.00
+48,Walker 48,Walker48@email.com,Large,Pending,2018-04-03 22:18:24,,,,3.00
+49,Walker 49,Walker49@email.com,Large,Pending,2018-03-21 11:10:41,,,,4.00
+50,Walker 50,Walker50@email.com,Large,Open,2018-01-30 07:28:27,,,,3.00
+51,Walker 51,Walker51@email.com,Small,Open,2018-03-29 18:17:11,,,,4.00
+52,Walker 52,Walker52@email.com,Large,Open,2018-04-19 10:27:43,,,,3.00
+53,Walker 53,Walker53@email.com,Large,Open,2018-04-22 07:59:02,,,,4.00
+54,Walker 54,Walker54@email.com,Large,Open,2018-04-13 23:11:30,,,,5.00
+55,Walker 55,Walker55@email.com,Small,Open,2018-04-05 05:21:11,,,,5.00
+56,Walker 56,Walker56@email.com,Small,Open,2018-05-06 17:03:57,,,,5.00
+57,Walker 57,Walker57@email.com,Large,Open,2018-02-04 15:06:29,,,,5.00
+58,Walker 58,Walker58@email.com,Medium,Open,2018-02-24 12:40:49,,,,5.00
+59,Walker 59,Walker59@email.com,Small,Open,2018-02-03 07:45:24,,,,5.00
+60,Walker 60,Walker60@email.com,Small,Open,2018-03-27 06:47:28,,,,4.00
+61,Walker 61,Walker61@email.com,Medium,Open,2018-02-07 02:35:42,,,,4.00
+62,Walker 62,Walker62@email.com,Medium,Open,2018-03-03 02:30:45,,,,4.00
+63,Walker 63,Walker63@email.com,Medium,Open,2018-04-21 09:15:37,,,,4.00
+64,Walker 64,Walker64@email.com,Medium,Open,2018-05-14 06:43:28,,,,4.00
+65,Walker 65,Walker65@email.com,Medium,Open,2018-02-19 14:44:16,,,,3.00
+66,Walker 66,Walker66@email.com,Small,Open,2018-04-30 20:04:39,,,,4.00
+67,Walker 67,Walker67@email.com,Medium,Open,2018-02-09 18:40:52,,,,4.00
+68,Walker 68,Walker68@email.com,Medium,Open,2018-02-21 09:53:02,,,,3.00
+69,Walker 69,Walker69@email.com,Medium,Open,2018-04-17 07:25:11,,,,5.00
+70,Walker 70,Walker70@email.com,Medium,Open,2018-02-13 07:42:16,,,,4.00
+71,Walker 71,Walker71@email.com,Medium,Open,2018-02-25 13:31:57,,,,3.00
+72,Walker 72,Walker72@email.com,Large,Open,2018-03-05 00:15:58,,,,5.00
+73,Walker 73,Walker73@email.com,Small,Open,2018-05-14 04:13:46,,,,3.00
+74,Walker 74,Walker74@email.com,Small,Open,2018-02-14 19:25:45,,,,5.00
+75,Walker 75,Walker75@email.com,Small,Open,2018-04-14 06:57:34,,,,3.00
+76,Walker 76,Walker76@email.com,Medium,Open,2018-02-11 21:34:11,,,,4.00
+77,Walker 77,Walker77@email.com,Small,Open,2018-05-08 16:07:23,,,,4.00
+78,Walker 78,Walker78@email.com,Medium,Open,2018-04-20 05:23:36,,,,4.00
+79,Walker 79,Walker79@email.com,Small,Open,2018-02-21 10:42:24,,,,5.00
+80,Walker 80,Walker80@email.com,Large,Open,2018-04-19 20:40:19,,,,3.00
+81,Walker 81,Walker81@email.com,Large,Open,2018-03-07 21:23:07,,,,5.00
+82,Walker 82,Walker82@email.com,Large,Open,2018-03-03 20:51:21,,,,5.00
+83,Walker 83,Walker83@email.com,Small,Open,2018-03-03 10:14:07,,,,5.00
+84,Walker 84,Walker84@email.com,Small,Open,2018-03-23 22:30:13,,,,4.00
+85,Walker 85,Walker85@email.com,Medium,Open,2018-02-15 12:45:30,,,,5.00
+86,Walker 86,Walker86@email.com,Small,Open,2018-02-26 16:23:10,,,,3.00
+87,Walker 87,Walker87@email.com,Large,Open,2018-04-19 01:29:13,,,,5.00
+88,Walker 88,Walker88@email.com,Small,Open,2018-03-05 22:01:03,,,,3.00
+89,Walker 89,Walker89@email.com,Medium,Open,2018-04-13 02:17:41,,,,3.00
+90,Walker 90,Walker90@email.com,Medium,Open,2018-04-12 00:39:04,,,,4.00
+91,Walker 91,Walker91@email.com,Medium,Open,2018-03-23 11:54:09,,,,3.00
+92,Walker 92,Walker92@email.com,Medium,Open,2018-02-25 21:37:21,,,,3.00
+93,Walker 93,Walker93@email.com,Medium,Open,2018-02-26 04:51:41,,,,3.00
+94,Walker 94,Walker94@email.com,Medium,Open,2018-03-14 13:20:13,,,,3.00
+95,Walker 95,Walker95@email.com,Medium,Open,2018-03-27 17:28:46,,,,5.00
+96,Walker 96,Walker96@email.com,Medium,Open,2018-05-24 22:43:15,,,,5.00
+97,Walker 97,Walker97@email.com,Medium,Open,2018-03-11 11:49:04,,,,5.00
+98,Walker 98,Walker98@email.com,Medium,Open,2018-04-23 10:59:27,,,,5.00
+99,Walker 99,Walker99@email.com,Medium,Open,2018-03-14 08:46:45,,,,3.00
+100,Walker 100,Walker100@email.com,Medium,Open,2018-05-05 07:15:30,,,,4.00
